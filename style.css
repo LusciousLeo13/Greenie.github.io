@@ -1,11 +1,17 @@
 @charset "UTF-8";
 /* CSS Document */
-body {
-	background-color:#000000
+.body {
+	background-color:#000000;
+	font-style: normal;
 }
-h1 {
+.h1 {
 	
 	align-content: center;
 	background-size : cover;
 	background-color: #FFFFFF;
+}
+
+.nav {
+	background-color: #1BD100;
+	color:#000000;
 }
