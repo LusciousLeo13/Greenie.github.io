@@ -4,6 +4,17 @@
 	background-color:#000000;
 	font-style: normal;
 }
+
+.div {
+	background-color:#1BD100;
+	background-size : cover;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-right: 100px;
+	padding-left: 100px;
+	width: 35px;
+	
+}
 .h1 {
 	
 	align-content: center;
