@@ -1,11 +1,11 @@
 @charset "UTF-8";
 /* CSS Document */
-.body {
+body {
 	background-color:#000000;
 	font-style: normal;
 }
 
-.div {
+div {
 	background-color:#1BD100;
 	background-size : cover;
 	padding-top: 10px;
@@ -15,7 +15,7 @@
 	width: 35px;
 	
 }
-.h1 {
+h1 {
 	
 	align-content: center;
 	background-size : cover;
@@ -25,4 +25,9 @@
 .nav {
 	background-color: #1BD100;
 	color:#000000;
+}
+
+p1 { color: aliceblue
+	
+	
 }
